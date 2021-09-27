@@ -1,6 +1,9 @@
 {
 .appVersion = "3091";
 .formatVersion = 3;
+DisplayStrings = (
+" "
+);
 date = "2021-09-19 21:09:14 +0000";
 familyName = Minecraft;
 fontMaster = (
@@ -3542,11 +3545,11 @@ unicode = 57;
 },
 {
 glyphname = space;
-lastChange = "2021-09-19 21:54:53 +0000";
+lastChange = "2021-09-27 06:45:35 +0000";
 layers = (
 {
 layerId = m01;
-width = 300;
+width = 200;
 }
 );
 unicode = 32;
